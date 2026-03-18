@@ -1,2 +1,2 @@
-# Dystopian-games
-Can range from virus  to ancient evil to a medical issue  or not properly contained
+# rusted-games
+mostly horror survival games but I do some shooter games 
